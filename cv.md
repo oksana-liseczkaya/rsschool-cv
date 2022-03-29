@@ -16,3 +16,10 @@ My life motto:
 
 > If you want to do something great one day,
 > remember, one fine day is today.
+
+## Skills
+
+- HTML
+- CSS/SASS
+- JavaScript (Basic)
+- Git, Github
